@@ -1,0 +1,12 @@
+.Root {
+    width: 150px;
+    height: 25px;
+}
+
+.Text {
+    padding-left: 5px;
+}
+
+.Button {
+    float: right;
+}
